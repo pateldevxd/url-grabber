@@ -20,3 +20,5 @@ tool is based on url grabbing
 4 - go to load-unpacked tab and select folder where you saved your files 
 5 - now extensions will load automatically and you can pin that extension for easy use !
 
+enjoy!
+
