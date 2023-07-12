@@ -6,7 +6,7 @@ tool is based on url grabbing
 ---features
 
 - grab url from tabs
-- manually save links  
+- manually save links  		
 - it won't vanished on refresh or reload the page 
 - it's easily to use it ..
 
